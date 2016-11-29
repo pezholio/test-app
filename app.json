@@ -9,5 +9,9 @@
   "website": "http://metrics.theodi.org/",
   "repository": "https://github.com/pezholio/test-app",
   "logo": "https://avatars0.githubusercontent.com/u/2492770?v=3&s=200",
-  "success_url": "/"
+  "success_url": "/",
+  "addons": [
+    "mongolab:sandbox",
+    "pusher:sandbox"
+  ]
 }
